@@ -3,6 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/SW-00/Downloads/json-20180813.jar"/>
-	<classpathentry kind="lib" path="C:/Users/SW-00/Downloads/ggoreb.jar"/>
+	<classpathentry kind="lib" path="C:/dev/kakao_api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
